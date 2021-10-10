@@ -1,0 +1,1 @@
+print('Semen ' * 10)
